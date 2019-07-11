@@ -1,0 +1,422 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+  <title>Green Colleges</title>
+    <meta name="keywords" content="Green Colleges"/>
+    <meta name="description" content="Green Colleges"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
+<link rel="icon" href="/images/favicon.png" sizes="20x27" type="image/png">
+<link rel="stylesheet" href="/css/main.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript" src="/js/scrolltopcontrol.js"></script>
+ <!-- Load miSlider -->
+ <script type="text/javascript" src="/js/jquery.flexisel.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/scroller.css">
+<link href="/SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+<!----------slider--->
+<script type="text/javascript" src="/js/slider2.js"></script>
+<script type="text/javascript" src="/js/slider3.js"></script>
+<script src="/SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="wrapper">
+<header class="header">
+<div class="headerinner">
+<div class="logo"> <a href="/"><img src="/images/logo.jpg" ></a> </div>
+  
+<nav class="menu">
+<div class="inner inner1">
+
+    
+
+<div id="cssmenu">
+	<ul>
+    
+        
+        
+                   <li><a href="/en/About-Us/1">About Us</a>
+       
+       
+              
+                                     
+  </li>
+            <li><a href="/en/Our-Services--/2">Our Services  </a>
+       
+       
+              
+                                     
+  </li>
+            <li><a href="/en/Green-Colleges/3">Green Colleges</a>
+       
+       
+              
+  <ul>              <li><a href="/en/What-are-Green-Colleges-/4"> <span>What are Green Colleges?</span></a>
+       
+       
+              
+                                     
+  </li>
+  
+     <li><a href="/Home/CollegeList">Green Colleges  </a></li>  
+      
+         </ul>                                  
+                                     
+  </li>
+
+        
+        
+        
+        
+        
+        
+        
+         
+             
+     <li><a href="/ResourceCenter">Resource Center</a>
+     </li>        
+     <li><a href="#">Connect with  us</a>
+     
+     <ul>
+     
+              <li><a href="/ep/Career">Join Us  </a></li> 
+               <li><a href="/Home/Contact">Contact us  </a></li> 
+         
+            
+     </ul>
+    
+     </li> 
+     
+	</ul>
+</div>
+
+
+</div>
+</nav>  
+
+<div class="social">
+<h3>A Joint Initiative by</h3>
+<a href="http://nsfindia.org/" target="_blank"><img src="/images/nfsi-logo.jpg" width="103" height="60"></a>
+  <a href="http://www.welthungerhilfe.de/en/home-en.html" target="_blank"><img src="/images/welthunger.jpg" width="98" height="60"></a> </div>
+
+
+<div style="clear:both"></div>
+</div>
+
+</header>
+
+
+       
+
+
+<section class="banners banner2">
+
+  <img src="/images/listingbg.jpg" width="1532" height="247">
+  <div class="tagline1 pagetitle">
+<div class="tagline2"><p> <span> List of </span> Green College </p></div>
+</div>  
+
+  
+  </section>
+
+<div class="page2">
+<div class="container">
+<div class="listing1">
+<h2>Green College, Center for World Solidarity </h2>
+<h3>Paddy Cultivator, Sericulturist &amp; Lac Cultivator</h3>
+<p>Girdih, Jharkhand<br><br> 
+9931195632 |
+ 9931195632, 
+
+</p>
+
+<img src="/Content/CollegeImage/bckftbiojfv.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Green-College,-Center-for-World-Solidarity-/4'>View More</a>
+                  </p>
+        </div>
+
+</div>
+<div class="listing1">
+<h2>Green College, Tata Steel Rural Development Society </h2>
+<h3> Lac production and processing,Animal Health worker &amp; Fishery </h3>
+<p>Kolabera, Jamshedpur, Jharkhand<br><br> 
+9386642303 |
+ 9386642303, 
+
+</p>
+
+<img src="/Content/CollegeImage/3o5jpt5rqyj.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Green-College,-Tata-Steel-Rural-Development-Society-/5'>View More</a>
+                  </p>
+        </div>
+
+</div>
+<div class="listing1">
+<h2>Green College - Krishi Gram Vikas Kendra</h2>
+<h3>Paraveterinary, Dairy Entrepreneur &amp; Gardner</h3>
+<p>Rukka, Ranchi, Jharkhand<br><br> 
+7488042306 |
+ 7488042306, 
+
+</p>
+
+<img src="/Content/CollegeImage/gb0a1hldwzx.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Green-College---Krishi-Gram-Vikas-Kendra/7'>View More</a>
+                  </p>
+        </div>
+
+</div>
+<div class="listing1">
+<h2>Green College, NEEDS</h2>
+<h3>Floriculture, Dairy entrepreneur, Agriculture Extension service provider</h3>
+<p>Deoghar, Jharkhand<br><br> 
++91- 9204795008 |
+ 9631196866, 
+
+</p>
+
+<img src="/Content/CollegeImage/kyj5yygdbwh.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Green-College,-NEEDS/6'>View More</a>
+                  </p>
+        </div>
+
+</div>
+<div class="listing1">
+<h2>Patheya Green College - DRCSC</h2>
+<h3>Babui Grass Products, Sal Leaf Products &amp; Neera Technician</h3>
+<p>Bolpur, West Bengal<br><br> 
+ |
+ 9432013248, 
+
+</p>
+
+<img src="/Content/CollegeImage/m3ciesmdyre.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Patheya-Green-College---DRCSC/8'>View More</a>
+                  </p>
+        </div>
+
+</div>
+<div class="listing1">
+<h2>Green College - SPWD</h2>
+<h3>Bio-input production  and Paddy Farmer</h3>
+<p>Angara, Ranchi, Jharkhand<br><br> 
+0651-2246421 |
+ , 
+
+</p>
+
+<img src="/Content/CollegeImage/q1knionuwkk.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Green-College---SPWD/9'>View More</a>
+                  </p>
+        </div>
+
+</div>
+<div class="listing1">
+<h2>Green College - DRCSC </h2>
+<h3>Sal Leaf Products, Babui Grass Handicrafts &amp; Integrated Aquaculturist</h3>
+<p>Dubrajpur, Jhargram, West Bengal<br><br> 
+033-24427563 |
+ 9432013248, 
+
+</p>
+
+<img src="/Content/CollegeImage/xnldbj5i3da.jpg" width="285" height="187"> 
+
+     <div class="textbox">
+                <p class="text"> 
+                 <a href='/CollegeDetails/ct/Green-College---DRCSC-/10'>View More</a>
+                  </p>
+        </div>
+
+</div>
+
+
+
+
+</div>
+
+</div>
+
+
+
+<footer class="footer">
+<div class="container">
+<div class="sm_col1">
+  <a href="/"><img src="/images/logo1.png" width="211" height="69"></a>  
+    
+  </div>
+<div class="sm_col2">
+<h2>Quick Links</h2>
+<ul>
+<li><a href="/">Home </a></li>
+<li><a href="/en/About-Us/1">About Us</a></li>  <li><a href="/en/Our-Services--/2">Our Services  </a></li>
+<li><a href="/Home/CollegeList">Green Colleges</a></li>
+<li><a href="/ResourceCenter">Resourse Center</a></li>
+<li><a href="/Home/Contact">Contact Us</a></li>
+</ul>
+
+</div>  
+  
+ <div class="sm_col2">
+<h2>Reach out to us</h2>
+<p>
+K-59, South City 1,<br>
+Gurgaon - 122018,<br>
+Haryana , India <br>
+<br>
+Phone: (+91) 124-4058848, 4058849<br>
+Fax : (+91)124 4048840<br>
+Email: <a href="mailto:info@skillgreen.org">info@skillgreen.org</a>
+</p>
+
+</div>
+ 
+ <div class="sm_col2 follow">
+<h2>Follow us on</h2>
+<p>
+ <a href="#"> <img src="/images/facebook.png" width="48" height="43"></a>
+ <a href="#"> <img src="/images/linkedin.png" width="48" height="43"> </a>
+  <a href="#"><img src="/images/youtube.png" width="48" height="43"></a> </p>
+
+
+</p>
+
+</div>
+ 
+ 
+  
+</div>
+
+<div class="footer1">
+<div class="container">
+<span class="design">Designed by 3sLogics</span>
+<span class="copy">Copyright @ Skillgreen 2016</span>
+</div>
+</div>
+</footer>
+
+
+</div>
+
+<script src="/js/menu.js"></script>
+<script type="text/javascript">
+    $("#cssmenu").menumaker({
+        title: "Menu",
+        format: "multitoggle"
+    });
+</script>
+
+<script>
+
+    $(window).load(function () {
+
+        $("#flexiselDemo1").flexisel({
+            visibleItems: 1,
+            animationSpeed: 1000,
+            autoPlay: false,
+            autoPlaySpeed: 3000,
+            pauseOnHover: true,
+            enableResponsiveBreakpoints: true,
+            responsiveBreakpoints: {
+                portrait: {
+                    changePoint: 480,
+                    visibleItems: 1
+                },
+                landscape: {
+                    changePoint: 640,
+                    visibleItems: 1
+                },
+                tablet: {
+                    changePoint: 768,
+                    visibleItems: 1
+                }
+            }
+        });
+
+        $("#flexiselDemo3").flexisel({
+            visibleItems: 1,
+            animationSpeed: 1000,
+            autoPlay: false,
+            autoPlaySpeed: 3000,
+            pauseOnHover: true,
+            enableResponsiveBreakpoints: true,
+            responsiveBreakpoints: {
+                portrait: {
+                    changePoint: 480,
+                    visibleItems: 1
+                },
+                landscape: {
+                    changePoint: 640,
+                    visibleItems: 1
+                },
+                tablet: {
+                    changePoint: 768,
+                    visibleItems: 1
+                }
+            }
+        });
+
+
+    });
+
+</script>
+
+<script src="/js/slider.js"></script> 
+<script>
+    $("#slider-container").sliderUi({
+        speed: 700,
+        cssEasing: "cubic-bezier(0.285, 1.015, 0.165, 1.000)"
+    });
+    $("#caption-slide").sliderUi({
+        caption: true
+    });
+
+    $("#caption-slide1").sliderUi({
+        caption: true
+    });
+</script> 
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 207 && !$('.header').hasClass('fx_hd_top')) {
+                $('.fx_hd_top').hide();
+                $('.header').addClass('fx_hd_top').hide().show();
+            }
+
+            if ($(this).scrollTop() < 207) {
+                $('.header').removeClass('fx_hd_top');
+            }
+
+
+
+        });
+    });
+    var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+</script>
+     
+</body>
+</html>
+
+
+       
+     

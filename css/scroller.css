@@ -1,0 +1,165 @@
+.clearout {
+	height: 20px;
+	clear: both;
+}
+#flexiselDemo1, #flexiselDemo2, #flexiselDemo3 {
+	display: none;
+}
+.nbs-flexisel-container {
+	position: relative;
+	max-width: 100%;
+}
+.nbs-flexisel-ul {
+	position: relative;
+	width: 9999px;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.nbs-flexisel-inner {
+	overflow: hidden;
+	float: left;
+	width: 100%;
+	border: 0px solid #ccc;
+}
+.nbs-flexisel-item {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	cursor: pointer;
+	position: relative;
+}
+.nbs-flexisel-item img {
+	cursor: pointer;
+	position: relative;
+}
+/*** Navigation ***/
+
+.nbs-flexisel-nav-left, .nbs-flexisel-nav-right {
+	width: 13px;
+	height: 21px;
+	position: absolute;
+	cursor: pointer;
+	margin-top: -40px;
+	z-index: 99;
+	overflow: visible;
+}
+.nbs-flexisel-nav-left {
+	left: -145px;
+	background: url(img/pre.png) no-repeat;
+}
+.nbs-flexisel-nav-right {
+	right: -145px;
+	background: url(img/next.png) no-repeat;
+}
+.aboutcollege >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	position: absolute !important;
+	z-index: 99999;
+	right: 15px !important;
+	top: 48px !important;
+}
+.aboutcollege >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	position: absolute !important;
+	right: 38px !important;
+	top: 48px !important;
+	z-index: 99999;
+	left: inherit !important;
+}
+.testimonials1 >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	position: absolute !important;
+	z-index: 99999;
+	right: 45px !important;
+	top: 130px !important;
+}
+.testimonials1 >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	position: absolute !important;
+	left: 45px !important;
+	top: 130px !important;
+	z-index: 99999;
+}
+.gallery >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	position: absolute !important;
+	z-index: 999;
+	right:5px !important;
+	top: 5px !important;
+	background: url(img/next1.png) no-repeat;
+}
+.gallery >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	position: absolute !important;
+	left:inherit !important;
+	right:25px !important;
+	top: 5px !important;
+	z-index: 999;
+	background: url(img/pre1.png) no-repeat;
+}
+
+
+.testimonialnew >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	position: absolute !important;
+	z-index: 999;
+	right:5px !important; top:inherit !important;
+	top: 0px !important;
+	background: url(img/next.png) no-repeat;
+}
+.testimonialnew >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	position: absolute !important;
+	left:inherit !important; top:inherit !important;
+	right:25px !important;
+	top:0px !important;
+	z-index: 999;
+	background: url(img/pre.png) no-repeat;
+}
+
+.college_right >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	position: absolute !important;
+	z-index: 999;
+	right:5px !important;
+	top: 15px !important;
+	background: url(img/next1.png) no-repeat;
+}
+.college_right >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	position: absolute !important;
+	left:inherit !important;
+	right:25px !important;
+	top: 15px !important;
+	z-index: 999;
+	background: url(img/pre1.png) no-repeat;
+}
+
+.dircontainer >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	right: -100px !important; top:240px !important;
+    background: url(img/next1.png) no-repeat;
+}
+.dircontainer >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	left: -100px !important; top:240px !important;
+    background: url(img/pre1.png) no-repeat;
+}
+
+
+@media handheld, only screen and (max-width:1024px) {
+	.testimonialnew >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	top:210px !important; right:-25px !important;
+}
+.testimonialnew >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	top: 210px !important; left:-25px !important;
+}
+}
+
+@media handheld, only screen and (max-width:480px) {
+	.testimonialnew >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	top:110px !important; right:-25px !important;
+}
+.testimonialnew >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	top: 110px !important; left:-25px !important;
+}
+
+.dircontainer >.nbs-flexisel-container>.nbs-flexisel-nav-right {
+	right: -25px !important; top:180px !important;
+    background: url(img/next1.png) no-repeat;
+}
+.dircontainer >.nbs-flexisel-container>.nbs-flexisel-nav-left {
+	left: -25px !important; top:180px !important;
+    background: url(img/pre1.png) no-repeat;
+}
+
+}
